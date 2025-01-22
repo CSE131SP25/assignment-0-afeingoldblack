@@ -34,7 +34,6 @@ public class RobotController extends JFrame {
 	private JTextArea savedPoints;
 	private JSlider slider;
 	private int speed;
-
 	/**
 	 * Launch the application.
 	 */
